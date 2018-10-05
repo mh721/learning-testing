@@ -12,5 +12,10 @@
             "name": "Martin H",
             "email": "martin.handzus@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    }
 }
