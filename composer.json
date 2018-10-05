@@ -1,0 +1,16 @@
+{
+    "name": "martin/testing",
+    "description": "Learning unit testing in PHP",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.7.27"
+    },
+    "authors": [
+        {
+            "name": "Martin H",
+            "email": "martin.handzus@gmail.com"
+        }
+    ]
+}
